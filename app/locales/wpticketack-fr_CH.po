@@ -1,0 +1,1327 @@
+# Translation of WP Ticketack.
+# Copyright (C) 2018 Net Oxygen Sàrl
+# This file is distributed under the same license as the wpticketack package.
+#  <dev@b-alidra.com>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wpticketack 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-28 16:34+0200\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jonathan Ernst <jonathan.ernst@netoxygen.ch>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Veuillez choisir le nombre de descentes"
+msgstr ""
+
+msgid "descente"
+msgstr ""
+
+msgid "descentes consécutives"
+msgstr ""
+
+msgid "Veuillez choisir une date"
+msgstr ""
+
+msgid "l j F"
+msgstr ""
+
+msgid "Veuillez choisir une heure"
+msgstr ""
+
+msgid "Veuillez choisir vos MountainCarts"
+msgstr ""
+
+msgid "Taille"
+msgstr ""
+
+msgid "Étape suivante"
+msgstr ""
+
+msgid "Il n'y a plus de places pour cette date."
+msgstr ""
+
+msgid "Veuillez saisir vos informations"
+msgstr ""
+
+msgid "Prénom"
+msgstr ""
+
+msgid "Veuillez choisir votre tarif"
+msgstr ""
+
+msgid "Choisissez un tarif"
+msgstr ""
+
+msgid "Réserver"
+msgstr ""
+
+msgid "Nombre de descentes"
+msgstr ""
+
+msgid "1 descente"
+msgstr ""
+
+msgid "2 descentes"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Départ"
+msgstr ""
+
+msgid "Choix des MountainCarts"
+msgstr ""
+
+msgid "Vos informations"
+msgstr ""
+
+msgid "Tarifs"
+msgstr ""
+
+msgid "Sélectionnez votre contenance et votre quantité :"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Veuillez choisir au moins un produit"
+msgstr ""
+
+msgid "Accéder au panier"
+msgstr ""
+
+msgid "Ajouter au panier"
+msgstr ""
+
+msgid "Acheter"
+msgstr ""
+
+msgid "Votre accréditation/pass ne vous permet pas de visionner ce contenu."
+msgstr ""
+
+msgid "Vous avez un TicketID ?"
+msgstr ""
+
+msgid "Connexion"
+msgstr ""
+
+msgid "Votre TicketID se trouve sur votre abonnement"
+msgstr ""
+
+msgid "Regarder"
+msgstr ""
+
+msgid "Merci, votre commande est réservée dans votre panier pour 30 minutes."
+msgstr ""
+
+msgid "Continuer"
+msgstr ""
+
+msgid "ma visite"
+msgstr ""
+
+msgid ""
+"Saisissez le nombre d'éléments que vous souhaitez ajouter à votre panier :"
+msgstr ""
+
+msgid "Épuisé"
+msgstr ""
+
+msgid "Ajouter à mon panier"
+msgstr ""
+
+msgid "Titulaire"
+msgstr ""
+
+msgid "Votre prénom"
+msgstr ""
+
+msgid "Nom"
+msgstr ""
+
+msgid "Votre nom de famille"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Votre adresse e-mail"
+msgstr ""
+
+msgid "Adresse"
+msgstr ""
+
+msgid "Votre adresse"
+msgstr ""
+
+msgid "Numéro postal"
+msgstr ""
+
+msgid "NPA"
+msgstr ""
+
+msgid "Ville"
+msgstr ""
+
+msgid "Pays"
+msgstr ""
+
+msgid "Téléphone"
+msgstr ""
+
+msgid "Téléphone portable"
+msgstr ""
+
+msgid "Âge"
+msgstr ""
+
+msgid "Date de naissance"
+msgstr ""
+
+msgid "Genre"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Choisir une image"
+msgstr ""
+
+msgid "Formats pris en charge : jpeg, png, webp, avif ou gif"
+msgstr ""
+
+msgid "Arrêter la vidéo"
+msgstr ""
+
+msgid "Prendre une photo depuis la caméra"
+msgstr ""
+
+msgid "Prendre une photo"
+msgstr ""
+
+msgid "Vidéo non supportée"
+msgstr ""
+
+msgid ""
+"Sans photo clairement reconnaissable, nous nous réservons le droit de vous "
+"refuser l'entrée. En cas d'abus, votre billet pourra être bloqué."
+msgstr ""
+
+msgid "Commentaires"
+msgstr ""
+
+msgid "Votre commentaire"
+msgstr ""
+
+msgid "Ceci est un cadeau"
+msgstr ""
+
+msgid "Ces champs sont requis"
+msgstr ""
+
+msgid "Tarifs :"
+msgstr ""
+
+msgid "Veuillez choisir la date désirée :"
+msgstr ""
+
+msgid "Veuillez choisir l'heure désirée :"
+msgstr ""
+
+msgid "à"
+msgstr ""
+
+msgid "Il n'y a pas de billetterie disponible pour cet événement."
+msgstr ""
+
+msgid "Réserver une place sur mon abonnement"
+msgstr ""
+
+msgid "Entrée libre"
+msgstr ""
+
+msgid "Acheter des places"
+msgstr ""
+
+msgid ""
+"Saisissez le nombre de place(s) que vous souhaitez ajouter à votre panier :"
+msgstr ""
+
+msgid "Il n'est pas encore possible d'acheter des places pour cette séance."
+msgstr ""
+
+msgid "Il n'est plus possible d'acheter des places pour cette séance."
+msgstr ""
+
+msgid "Il n'est pas possible d'acheter des places pour cette séance."
+msgstr ""
+
+msgid "Des places sont néanmoins disponibles aux caisses."
+msgstr ""
+
+msgid "Des places seront néanmoins disponibles aux caisses."
+msgstr ""
+
+msgid "Réserver des places sur vos billets"
+msgstr ""
+
+msgid "Réservation pour cette séance avec ce billet :"
+msgstr ""
+
+msgid "Réserver une place sur ce billet"
+msgstr ""
+
+msgid "Réserver une place de plus sur ce billet"
+msgstr ""
+
+msgid ""
+"Vous ne pouvez pas réserver plus de place pour cette séance avec ce billet."
+msgstr ""
+
+msgid "Vous ne pouvez pas réserver de place pour cette séance avec ce billet."
+msgstr ""
+
+msgid "Votre place a bien été réservée."
+msgstr ""
+
+msgid "Ajoutez-le"
+msgstr ""
+
+msgid "pour réserver."
+msgstr ""
+
+msgid "Acheter un abonnement"
+msgstr ""
+
+msgid ""
+"La documentation est disponible <a target=\"_blank\" href=\"https://"
+"ticketack.com/knowledge-base/integration-avec-le-module-wordpress/\">à cette "
+"adresse</a> et le journal des modifications <a target=\"_blank\" "
+"href=\"https://yoda.netoxygen.ch/public/"
+"projects/401b5210-986f-46b3-99cb-38546b73e16c/changelog\">ici</a>"
+msgstr ""
+
+msgid "Les votes seront possibles dès le début de la séance"
+msgstr ""
+
+msgid "Les votes seront possibles dès la fin de la séance"
+msgstr ""
+
+msgid "Vous ne pouvez pas voter car votre billet n'a pas été contrôlé"
+msgstr ""
+
+msgid "Les votes ne sont pas encore possibles pour cette séance"
+msgstr ""
+
+msgid "Les votes ne sont pas plus possibles pour cette séance"
+msgstr ""
+
+msgid ""
+"Nous n'émettons pas de billet individuel pour les réservations, votre ticket "
+"actuel vous sert de titre d'entrée aux séances réservées."
+msgstr ""
+
+msgid "Réservations"
+msgstr ""
+
+msgid "Il n'y a actuellement aucune réservation sur ce billet."
+msgstr ""
+
+msgid "Réservation"
+msgstr ""
+
+msgid "Lieu"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Annuler"
+msgstr ""
+
+msgid "Réservations passées"
+msgstr ""
+
+msgid "Réserver des séances"
+msgstr ""
+
+msgid "Invités"
+msgstr ""
+
+msgid "Validité"
+msgstr ""
+
+#, php-format
+msgid "Activé le %s"
+msgstr ""
+
+msgid "Tarif :"
+msgstr ""
+
+#, php-format
+msgid "Valable jusqu'au %s"
+msgstr ""
+
+msgid "Oublier ce ticket"
+msgstr ""
+
+msgid "Votre panier est vide"
+msgstr ""
+
+msgid "Votre commande"
+msgstr ""
+
+msgid "Tickets"
+msgstr ""
+
+msgid "Prix"
+msgstr ""
+
+msgid "Articles"
+msgstr ""
+
+msgid "Abonnements"
+msgstr ""
+
+msgid "Récapitulatif"
+msgstr ""
+
+msgid "Commande"
+msgstr ""
+
+msgid "produit"
+msgstr ""
+
+msgid "produits"
+msgstr ""
+
+msgid "Rabais"
+msgstr ""
+
+msgid "Frais"
+msgstr ""
+
+msgid "Total :"
+msgstr ""
+
+msgid "Vous disposez de"
+msgstr ""
+
+msgid "sur votre portefeuille électronique"
+msgstr ""
+
+msgid "Saisissez ci-dessous le montant que vous souhaitez utiliser"
+msgstr ""
+
+msgid "Utiliser mon portefeuille"
+msgstr ""
+
+msgid "Code promo"
+msgstr ""
+
+msgid "Utiliser"
+msgstr ""
+
+msgid "Finaliser ma commande"
+msgstr ""
+
+msgid "Annuler ma commande"
+msgstr ""
+
+msgid "Continuer mes réservations"
+msgstr ""
+
+msgid "Résumé du panier"
+msgstr ""
+
+msgid "Panier"
+msgstr ""
+
+msgid "produit(s)"
+msgstr ""
+
+msgid "Total TTC"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid ""
+"Aucun événement programmé actuellement, revenez nous visiter prochainement."
+msgstr ""
+
+msgid "Aucune séance à afficher"
+msgstr ""
+
+msgid "Plus d'informations"
+msgstr ""
+
+msgid "Il ne reste que quelques places"
+msgstr ""
+
+msgid "Complet"
+msgstr ""
+
+msgid "Billets"
+msgstr ""
+
+msgid "Il ne reste que quelques places !"
+msgstr ""
+
+msgid "Aujourd'hui"
+msgstr ""
+
+#, php-format
+msgid "%d ans"
+msgstr ""
+
+msgid ""
+"Aucuné séance programmée actuellement, revenez nous visiter prochainement."
+msgstr ""
+
+msgid "Mon compte"
+msgstr ""
+
+msgid "Me déconnecter"
+msgstr ""
+
+msgid "Identifiant"
+msgstr ""
+
+msgid "Mot de passe"
+msgstr ""
+
+msgid "Pas encore de compte ? Créez-en un !"
+msgstr ""
+
+msgid "Mot de passe perdu ? Changez-le !"
+msgstr ""
+
+msgid "Votre nom"
+msgstr ""
+
+msgid "Société"
+msgstr ""
+
+msgid "Votre société"
+msgstr ""
+
+msgid "Adresse e-mail"
+msgstr ""
+
+msgid "Confirmation de votre adresse e-mail"
+msgstr ""
+
+msgid "Saisissez une deuxième fois votre adresse"
+msgstr ""
+
+msgid "Votre numéro de téléphone"
+msgstr ""
+
+msgid "j F Y"
+msgstr ""
+
+msgid "Choisissez un mot de passe"
+msgstr ""
+
+msgid "Confirmation de votre mot de passe"
+msgstr ""
+
+msgid "Saisissez une deuxième fois votre mot de passe"
+msgstr ""
+
+msgid "Tous ces champs sont requis"
+msgstr ""
+
+msgid "Votre compte a bien été créé"
+msgstr ""
+
+msgid ""
+"Veuillez l'activer en cliquant sur le lien que vous avez reçu par e-mail."
+msgstr ""
+
+msgid "Créer mon compte"
+msgstr ""
+
+msgid "Déjà un compte ? Connectez-vous !"
+msgstr ""
+
+msgid "Mes votes"
+msgstr ""
+
+msgid "Aucun vote disponible pour le moment."
+msgstr ""
+
+msgid "Mes informations"
+msgstr ""
+
+msgid ""
+"Si vous souhaitez changer votre mot de passe, remplissez les champs ci-"
+"dessous."
+msgstr ""
+
+msgid "Nouveau mot de passe"
+msgstr ""
+
+msgid "Saisissez une deuxième fois votre nouveau mot de passe"
+msgstr ""
+
+msgid "Modifier mes informations"
+msgstr ""
+
+msgid "Mes commandes"
+msgstr ""
+
+msgid "Vous n'avez pas encore de commandes."
+msgstr ""
+
+msgid "#"
+msgstr ""
+
+msgid "Prix total"
+msgstr ""
+
+msgid "Paiement"
+msgstr ""
+
+msgid "Statut"
+msgstr ""
+
+msgid "Mes billets"
+msgstr ""
+
+msgid "Autres abonnements (ajoutés avec leur TicketID)"
+msgstr ""
+
+msgid "Mes tickets pour une séance unique"
+msgstr ""
+
+msgid "Vous n'avez pas encore de billets."
+msgstr ""
+
+msgid "Oublier ce billet"
+msgstr ""
+
+msgid "Voir ce ticket"
+msgstr ""
+
+msgid "Voir mes réservations"
+msgstr ""
+
+msgid "Télécharger"
+msgstr ""
+
+msgid "Ajouter un billet acheté en billetterie physique"
+msgstr ""
+
+msgid "Saisissez votre TicketID"
+msgstr ""
+
+msgid "Valider"
+msgstr ""
+
+msgid "Votre compte n'est pas activé."
+msgstr ""
+
+msgid "Nous vous remercions pour votre commande."
+msgstr ""
+
+#, php-format
+msgid ""
+"J'accepte les <a target=\"_blank\" href=\"%s\">conditions générales de "
+"vente</a> et la <a target=\"_blank\" href=\"%s\">politique de protection des "
+"données</a>"
+msgstr ""
+
+msgid "Aucun moyen de paiement configué."
+msgstr ""
+
+msgid "Vos données de facturation"
+msgstr ""
+
+msgid "Entreprise"
+msgstr ""
+
+msgid "Votre entreprise"
+msgstr ""
+
+msgid "Saisissez une seconde fois votre adresse e-mail"
+msgstr ""
+
+msgid "Je désire m'inscrire à la newsletter."
+msgstr ""
+
+msgid ""
+"Dans le cadre des conditions sanitaires actuelles, nous sommes tenus de "
+"demander à chaque détenteur de ticket les informations nécessaires pour le "
+"contacter si besoin.<br/>Nous vous remercions donc de bien vouloir remplir "
+"les informations ci-dessous."
+msgstr ""
+
+msgid "Ticket"
+msgstr ""
+
+msgid "Code postal"
+msgstr ""
+
+msgid "Votre numéro, sans espace"
+msgstr ""
+
+msgid "* ces champs sont requis"
+msgstr ""
+
+msgid "Enregistrer"
+msgstr ""
+
+msgid "Une erreur est survenue lors de votre commande."
+msgstr ""
+
+msgid "Merci de bien vouloir réessayer."
+msgstr ""
+
+msgid "Recherche"
+msgstr ""
+
+msgid "Rechercher"
+msgstr ""
+
+msgid "Tous"
+msgstr ""
+
+msgid "Profession"
+msgstr ""
+
+msgid "Trier par"
+msgstr ""
+
+msgid "Aucun article dans cette catégorie, revenez nous visiter prochainement."
+msgstr ""
+
+msgid "Vous avez choisi :"
+msgstr ""
+
+msgid "Précédente"
+msgstr ""
+
+msgid "Suivante"
+msgstr ""
+
+msgid "Tout"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Sections"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Synopsis"
+msgstr ""
+
+msgid "Films"
+msgstr ""
+
+msgid "Achetez vos billets"
+msgstr ""
+
+msgid "Durée"
+msgstr ""
+
+msgid "min"
+msgstr ""
+
+msgid "Payss"
+msgstr "Pays"
+
+msgid "Langues originales"
+msgstr ""
+
+msgid "Langue originale"
+msgstr ""
+
+msgid "Audios"
+msgstr "Audio"
+
+msgid "Audio"
+msgstr ""
+
+msgid "Sous-titres"
+msgstr ""
+
+msgid "Année"
+msgstr ""
+
+msgid "Âge min. lég."
+msgstr ""
+
+msgid "Âge min. sug."
+msgstr ""
+
+msgid "Âge min. acc."
+msgstr ""
+
+msgid "Distribution"
+msgstr ""
+
+msgid "Aucune séance à venir."
+msgstr ""
+
+msgid "Impossible de communiquer avec la billetterie…"
+msgstr ""
+
+msgid "non défini"
+msgstr ""
+
+#, php-format
+msgid "%d événements ont été importés"
+msgstr ""
+
+#, php-format
+msgid "%d événement a été importé"
+msgstr ""
+
+msgid "Aucun événement n'a été importé"
+msgstr ""
+
+msgid "Le cache a été vidé."
+msgstr ""
+
+msgid "Veuillez choisir au moins un billet"
+msgstr ""
+
+msgid "Veuillez remplir les deux champs"
+msgstr ""
+
+msgid "Les informations que vous avez saisies sont invalides"
+msgstr ""
+
+msgid "Une erreur est survenue. Veuillez ré-essayer ultérieurement."
+msgstr ""
+
+msgid ""
+"Vous ne pouvez pas réserver de place pour cette séance avec votre abonnement."
+msgstr ""
+
+msgid ""
+"Vous ne pouvez pas réserver une place de plus pour cette séance avec votre "
+"abonnement."
+msgstr ""
+
+msgid "Veuillez choisir un tarif"
+msgstr ""
+
+msgid "Votre panier a été mis à jour"
+msgstr ""
+
+msgid "Code promo invalide"
+msgstr ""
+
+msgid "Impossible d'utiliser ce code promo"
+msgstr ""
+
+msgid "Le code promo a bien été pris en compte"
+msgstr ""
+
+msgid "sur votre porte monnaie électronique"
+msgstr ""
+
+msgid "Montant trop élevé"
+msgstr ""
+
+msgid "Rue"
+msgstr ""
+
+msgid "Télépĥone portable"
+msgstr ""
+
+msgid "Sexe"
+msgstr ""
+
+msgid "Langue"
+msgstr ""
+
+msgid "n'est pas supporté"
+msgstr ""
+
+msgid "est manquant"
+msgstr ""
+
+msgid "existe déjà"
+msgstr ""
+
+msgid "n'est pas une chaine de caractère"
+msgstr ""
+
+msgid "est vide"
+msgstr ""
+
+msgid "est trop court"
+msgstr ""
+
+msgid "est trop grand"
+msgstr ""
+
+msgid "est invalide"
+msgstr ""
+
+msgid "n'est pas un objet"
+msgstr ""
+
+msgid "n'est pas un tableau"
+msgstr ""
+
+msgid "n'est pas un booléen"
+msgstr ""
+
+msgid "En attente"
+msgstr ""
+
+msgid "En cours"
+msgstr ""
+
+msgid "Paiement en cours"
+msgstr ""
+
+msgid "Payée"
+msgstr ""
+
+msgid "Terminée"
+msgstr ""
+
+msgid "Erreur"
+msgstr ""
+
+msgid "Annulée"
+msgstr ""
+
+msgid "Postfinance"
+msgstr ""
+
+msgid "Proxypay"
+msgstr ""
+
+msgid "Virement"
+msgstr ""
+
+msgid "Gratuit"
+msgstr ""
+
+msgid "Espèces"
+msgstr ""
+
+msgid "Monnayeur"
+msgstr ""
+
+msgid "Carte bancaire"
+msgstr ""
+
+msgid "Porte-monnaie"
+msgstr ""
+
+msgid "Activé"
+msgstr ""
+
+msgid "Inactif"
+msgstr ""
+
+msgid "En attente de paiement"
+msgstr ""
+
+msgid "Bloqué"
+msgstr ""
+
+msgid "directeur"
+msgstr "réalisation"
+
+msgid "directeurs"
+msgstr "réalisation"
+
+msgid "réservation"
+msgstr ""
+
+msgid "réservations"
+msgstr ""
+
+msgid "sur"
+msgstr ""
+
+msgid "disponible"
+msgstr ""
+
+msgid "disponibles"
+msgstr ""
+
+msgid "actor"
+msgstr "acteur"
+
+msgid "actors"
+msgstr "acteurs"
+
+msgid "cast"
+msgstr "acteurs"
+
+msgid "camera"
+msgstr "caméra"
+
+msgid "cinematographer"
+msgstr "caméra"
+
+msgid "co-producer"
+msgstr "co-producteur"
+
+msgid "co-producers"
+msgstr "co-producteurs"
+
+msgid "creator"
+msgstr "créateur"
+
+msgid "creators"
+msgstr "créateurs"
+
+msgid "director"
+msgstr "réalisateur"
+
+msgid "directors"
+msgstr "réalisateurs"
+
+msgid "editor"
+msgstr "montage"
+
+msgid "editing"
+msgstr "montage"
+
+msgid "music"
+msgstr "musique"
+
+msgid "printcontact"
+msgstr "contact copie"
+
+msgid "producer"
+msgstr "producteur"
+
+msgid "producers"
+msgstr "producteurs"
+
+msgid "photography"
+msgstr "photographie"
+
+msgid "screenplay"
+msgstr "scénario"
+
+msgid "screenwriter"
+msgstr "scénario"
+
+msgid "writer"
+msgstr "scénario"
+
+msgid "writers"
+msgstr "scénario"
+
+msgid "sound"
+msgstr "son"
+
+msgid "production design"
+msgstr "design de production"
+
+msgid "Pas de réponse"
+msgstr ""
+
+msgid "Féminin"
+msgstr ""
+
+msgid "Masculin"
+msgstr ""
+
+msgid "Autre"
+msgstr ""
+
+msgid ""
+"Veuillez choisir un point de vente dans les réglages du module Ticketack"
+msgstr ""
+
+#, php-format
+msgid "%d articles ont été importés"
+msgstr ""
+
+#, php-format
+msgid "%d article a été importé"
+msgstr ""
+
+msgid "Aucun article n'a été importé"
+msgstr ""
+
+msgid "Ajouter un event Ticketack"
+msgstr ""
+
+msgid "Nouvel event Ticketack"
+msgstr ""
+
+msgid "Modifier cet event Ticketack"
+msgstr ""
+
+msgid "Afficher cet event Ticketack"
+msgstr ""
+
+msgid "Tous les events Ticketack"
+msgstr ""
+
+msgid "Rechercher les events Ticketack"
+msgstr ""
+
+msgid "Parent:"
+msgstr ""
+
+msgid "Aucun event Ticketack trouvé."
+msgstr ""
+
+msgid "Aucun event Ticketack trouvé dans la corbeille."
+msgstr ""
+
+msgid "Événements importés depuis Ticketack"
+msgstr ""
+
+msgid "Ajouter un article Ticketack"
+msgstr ""
+
+msgid "Nouvel article Ticketack"
+msgstr ""
+
+msgid "Modifier cet article Ticketack"
+msgstr ""
+
+msgid "Afficher cet article Ticketack"
+msgstr ""
+
+msgid "Tous les articles Ticketack"
+msgstr ""
+
+msgid "Rechercher les articles Ticketack"
+msgstr ""
+
+msgid "Aucun article Ticketack trouvé."
+msgstr ""
+
+msgid "Aucun article Ticketack trouvé dans la corbeille."
+msgstr ""
+
+msgid "Articles importés depuis Ticketack"
+msgstr ""
+
+msgid "Ajouter une personne Ticketack"
+msgstr ""
+
+msgid "Nouvelle personne Ticketack"
+msgstr ""
+
+msgid "Modifier cette personne Ticketack"
+msgstr ""
+
+msgid "Afficher cette personne Ticketack"
+msgstr ""
+
+msgid "Tous les people Ticketack"
+msgstr ""
+
+msgid "Rechercher les people Ticketack"
+msgstr ""
+
+msgid "Aucune personne Ticketack trouvée."
+msgstr ""
+
+msgid "Aucune personne Ticketack trouvée dans la corbeille."
+msgstr ""
+
+msgid "Personnes importées depuis Ticketack"
+msgstr ""
+
+msgid "API"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Registration"
+msgstr "Enregistrement"
+
+msgid "Images"
+msgstr ""
+
+msgid "Langues"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Paramètres avancés"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Ticketack n'est pas configuré."
+msgstr ""
+
+msgid "Accéder aux réglages"
+msgstr ""
+
+msgid "Connexion à votre instance Ticketack"
+msgstr ""
+
+msgid "URL de l'engine"
+msgstr ""
+
+msgid "URL du eshop"
+msgstr ""
+
+msgid "Clé d'API"
+msgstr ""
+
+msgid "Point de vente de ce site Web"
+msgstr ""
+
+msgid "Caisse de ce site Web"
+msgstr ""
+
+msgid "Billetterie et vente d'articles"
+msgstr ""
+
+msgid "Programme"
+msgstr ""
+
+msgid "Processus de vente"
+msgstr ""
+
+msgid "Validation de commande"
+msgstr ""
+
+msgid "Confirmation de commande"
+msgstr ""
+
+msgid "Connexion TicketID et utilisateur"
+msgstr ""
+
+msgid "Vue du ticket"
+msgstr ""
+
+msgid "Création de compte"
+msgstr ""
+
+msgid "Mot de passe perdu"
+msgstr ""
+
+msgid "Changement de mot de passe"
+msgstr ""
+
+msgid "Redirection à la mise au panier"
+msgstr ""
+
+msgid "Enregistrement"
+msgstr ""
+
+msgid "Autoriser l'enregistrement des utilisateurs"
+msgstr ""
+
+msgid "Informations optionnelles à saisir"
+msgstr ""
+
+msgid "Informations obligatoires à saisir"
+msgstr ""
+
+msgid "Dimensions des images"
+msgstr ""
+
+msgid "Largeur des grandes images"
+msgstr ""
+
+msgid "Hauteur des grandes images"
+msgstr ""
+
+msgid "Largeur des images moyennes"
+msgstr ""
+
+msgid "Hauteur des images moyennes"
+msgstr ""
+
+msgid "Langue par défaut"
+msgstr ""
+
+msgid "Filtrer les events sur les tags suivants"
+msgstr ""
+
+msgid "Filtrer les events sur les salles suivantes (id)"
+msgstr ""
+
+msgid "Télécharger les images à la une"
+msgstr ""
+
+msgid "Bibliothèques JavaScript"
+msgstr ""
+
+msgid "Charger underscore.js après le module"
+msgstr ""
+
+msgid "Customisation CSS"
+msgstr ""
+
+msgid "Sections padding"
+msgstr ""
+
+msgid "Border radius"
+msgstr ""
+
+msgid ""
+"Sélectionnez les pages qui contiennent votre programme (avec ou sans "
+"shortcode d'intégration) et permettent la vente d'abonnements et d'articles "
+"de merchandising (le cas échéant)."
+msgstr ""
+
+msgid ""
+"Sélectionnez les pages qui contiennent les shortcode d'intégration du "
+"processus d'achat."
+msgstr ""
+
+msgid ""
+"Sélectionnez les pages en relation avec les tickets et le compte (le cas "
+"échéant) utilisateur."
+msgstr ""
+
+msgid "Configurez le comportement du panier"
+msgstr ""
+
+msgid "Configuration de l'enregistrement des utilisateurs"
+msgstr ""
+
+msgid "Saisissez les informations d'accès à la billetterie"
+msgstr ""
+
+msgid "Dimensions des grandes et moyennes images (en px)."
+msgstr ""
+
+msgid "Configuration des langues."
+msgstr ""
+
+msgid "Configuration de l'import"
+msgstr ""
+
+msgid ""
+"Ne modifiez les valeurs ci-dessous que si vous avez des conflits javascript "
+"avec d'autres plugins."
+msgstr ""
+
+msgid ""
+"Ne modifiez les valeurs ci-dessous que si vous savez ce que vous faites."
+msgstr ""
+
+msgid "Brouillon"
+msgstr ""
